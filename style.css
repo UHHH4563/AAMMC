@@ -44,9 +44,9 @@
 }
 .view{
     position: relative;
-    font-size: 50;
+    font-size: small;
     bottom: 407;
-    left:100px
+    left:170px
 }
 .click{
     position: relative;
