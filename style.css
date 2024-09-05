@@ -43,7 +43,7 @@
     left: 2000px;
 }
 .view{
-    position: relative;
+    "position: relative;"
     font-size: small;
     bottom: 407;
     left:170px
@@ -53,8 +53,4 @@
     font-size: small;
     bottom: 367;
     left:660px
-}
-.popup{
-    position:fixed;
-   
 }
