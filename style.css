@@ -45,7 +45,7 @@
 .view{
     position: relative;
     font-size: small;
-    bottom: 407;
+    bottom: 440;
     left:170px
 }
 .click{
@@ -57,5 +57,4 @@
 .popup{
     position:fixed;
    
-}
 }
