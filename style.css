@@ -53,5 +53,9 @@
     position: relative;
     font-size: small;
     bottom: 367;
-    left:660px
+    left:660;
 }
+.popup{
+    position: fixed;
+    bottom:467;
+    left:660;
