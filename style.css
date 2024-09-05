@@ -46,7 +46,7 @@
     position: relative;
     font-size: small;
     bottom: 500;
-    left:170px
+    left:170;
 }
 .click{
     position: relative;
@@ -56,5 +56,5 @@
 }
 .popup{
     position: relative;
-   
+    
 }
