@@ -55,6 +55,6 @@
     left:660px
 }
 .popup{
-    position:fixed;
+    position: relative;
    
 }
