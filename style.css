@@ -56,5 +56,8 @@
 }
 .popup{
     position:fixed;
+    bottom: 407;
+    left:170px
+    font-size: 50;
    
 }
