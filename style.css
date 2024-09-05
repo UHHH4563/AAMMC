@@ -13,7 +13,6 @@
 
 .Pic{
     position: relative;
-    width: 50%;
     left: 15px;
     bottom: 30;
 }
@@ -44,7 +43,7 @@
     left: 2000px;
 }
 .view{
-    "position: relative;"
+    position: relative;
     font-size: small;
     bottom: 407;
     left:170px
@@ -53,9 +52,9 @@
     position: relative;
     font-size: small;
     bottom: 367;
-    left:660;
+    left:660px
 }
 .popup{
-    position: fixed;
-    bottom:467;
-    left:660;
+    position:fixed;
+   
+}
