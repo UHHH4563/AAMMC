@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.image{
+    position: relative;
+    width: 50px;
+    margin-bottom: 50px;
+    left:20px;
+    top:5px;
+}
+
+.Pic{
+    position: relative;
+    left: 15px;
+    bottom: 30;
+}
+.dates{
+    position: relative;
+    left: 15px;
+    bottom: 30;
+}
+.stuff{
+    position: relative;
+    left:15px;
+    bottom: 30;
+
+}
+.text{
+    position: relative;
+    top:-20;
+}
+.copy{
+    position: relative;
+    left: 15px;
+    bottom: 30;
+}
+.words{
+    position: relative;
+    color:rgb(255, 255, 255); 
+    bottom: 70;
+    left: 2000px;
+}
+.view{
+    position: relative;
+    font-size: small;
+    bottom: 407;
+    left:170px
+}
+.click{
+    position: relative;
+    font-size: small;
+    bottom: 367;
+    left:660px
+}
+.popup{
+    position:fixed;
+   
+}

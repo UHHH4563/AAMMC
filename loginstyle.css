@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.image{
+    position: relative;
+    width: 100px;
+    margin-bottom: 50px;
+    left:20px;
+    top:5px;
+}
+.input-box{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    left: 180px;
+    top: 90px;
+}
+.input-box input{
+    width: 40%;
+    height: 40;
+    border-radius: 5px;
+}
+.btn{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    left: 180px;
+    top: 100px;
+}
+.wrapper .btn{
+    color: rgb(255, 255, 255);
+    font-size: large;
+    background: rgb(26, 91, 107);
+   border-radius: 5px;
+    width: 200;
+    height: 45;
+}
+.text{
+    position: relative;
+    left: 180px;
+    top:60px;
+}
+.questions{
+    font-family: 'Times New Roman';
+    position: relative;
+    left: 180;
+    top:140px
+}
